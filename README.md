@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Fred👋, , but everyone just calls me BOOM</h1>
+<h1 align="center">Hi I'm Fred👋, but everyone just calls me BOOM</h1>
 <h3 align="center">A self taught, hobbyist developer from Canada 🍁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b1gboom420&label=Profile%20views&color=0e75b6&style=flat" alt="b1gboom420" /> </p>
