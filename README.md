@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Discord bots!**
 
-- 📫 How to reach me **B1GBOOM#5906 on Discord 😉**
+- 📫 How to reach me **b1gboom on Discord 😉**
 
 - 🚛 Fun fact about me is not only can I program, **but I can also reverse a tractor trailer**
 
