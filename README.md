@@ -5,7 +5,7 @@
 
 - 🔭 Sole developer and Mr. Fix-it of the **SimplyBetter Discord Bot for JGOD's Discord Community**
 
-- 🌱 I’m currently learning **Python along with Rust**
+- 🌱 I’m currently learning **Python**
 
 - 🔘 Revisiting an old project to update the [Customizable Captcha form JS to TS](https://github.com/B1GBOOM420/captcha-Generator)
 
